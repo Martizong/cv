@@ -13,7 +13,7 @@
 ## 🛠️ Технологии и умения
 - **Езици**: JavaScript, HTML, CSS, JSX  
 - **Библиотеки**: React  
-- **Инструменти**: Git, GitHub, Figma  
+- **Инструменти**: Git, GitHub
 - **Умения**: Mobile-first дизайн, responsive интерфейси.
 
 ---
