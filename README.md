@@ -1,7 +1,7 @@
 # Мартин Найденов
 **Front-End Developer (Junior)**  
 📧 agregjtrestrjjs@gmail.com | 📞 088 443 7467  
-📍 Асеновград | [GitHub](https://github.com/MartinNaydenov) | [LinkedIn](https://linkedin.com/in/MartinNaydenov)
+📍 София/Асеновград | [GitHub](https://github.com/MartinNaydenov) | [LinkedIn](https://linkedin.com/in/MartinNaydenov)
 
 ---
 
